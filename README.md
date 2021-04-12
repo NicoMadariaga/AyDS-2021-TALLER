@@ -1,4 +1,4 @@
-# AyDS-2021-TALLER 🛠️
+# Analisis y Diseño de Sistemas - TALLER 🛠️
 
 _Repo para el taller de Análisis y Diseño de Sistemas 2021_
 

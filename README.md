@@ -6,4 +6,4 @@ _Repo para el taller de Análisis y Diseño de Sistemas 2021_
 
 * **Camilo Petrignani Gorla** - [Perfil Camilo](https://github.com/camilo-pg)
 * **Gaston Martin** - [Perfil Gaston](https://github.com/Gaaston12)
-* **Nicolas Madariaga** - [Perfil Nicolas]()
+* **Nicolas Madariaga** - [Perfil Nicolas](https://github.com/NicoMadariaga)
